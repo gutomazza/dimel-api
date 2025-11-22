@@ -24,8 +24,8 @@ class EntradaDIMEL(BaseModel):
     QT_BAIXA_ESCOLARIDADE: int
     QT_BIOMETRIA: int
     NM_MUNICIPIO: Optional[str] 
-    NR_ZONA: Optional[int] 
-    NR_SECAO: Optional[int]
+    ZONA: Optional[int] 
+    SECAO: Optional[int]
 
 
 class SaidaDIMEL(BaseModel):

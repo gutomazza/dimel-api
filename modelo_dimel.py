@@ -6,7 +6,7 @@
 # Variáveis explicativas:
 #   - QT_APTOS
 #   - QT_IDOSOS
-#   - QT_DEFICIENTES
+#   - QT_DEFICIENTE
 #   - QT_BAIXA_ESCOLARIDADE
 #   - QT_BIOMETRIA
 
