@@ -27,7 +27,7 @@ def main():
     colunas_features = [
         "QT_APTOS",
         "QT_IDOSOS",
-        "QT_DEFICIENTES",
+        "QT_DEFICIENTE",
         "QT_BAIXA_ESCOLARIDADE",
         "QT_BIOMETRIA"
     ]  # ajuste para as suas colunas reais

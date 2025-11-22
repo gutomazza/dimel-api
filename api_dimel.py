@@ -20,7 +20,7 @@ modelo = carregar_modelo()
 class EntradaDIMEL(BaseModel):
     QT_APTOS: int
     QT_IDOSOS: int
-    QT_DEFICIENTES: int
+    QT_DEFICIENTE: int
     QT_BAIXA_ESCOLARIDADE: int
     QT_BIOMETRIA: int
     NM_MUNICIPIO: Optional[str] 
